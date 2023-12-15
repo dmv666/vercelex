@@ -1,0 +1,100 @@
+{
+"Mascotas": [
+  {
+    "id": "1",
+    "name": "Chester",
+    "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1702591471/mediateca/x9kvgasn5qnlrlctiqub.png",
+    "edad": "5 meses",
+    "personalidad": "Cariñoso",
+    "personalidad2": "Atento",
+    "personalidad3": "Loco",
+    "raza": "Golden Retriever",
+    "Description": "Conoce a Chester, un perrito Golden Retriever lleno de alegría y energía contagiosa. Con sus brillantes ojos color miel y su suave pelaje dorado, este joven cachorro irradia ternura y simpatía. A sus 5 meses de edad, Chester es curioso y juguetón, siempre listo para explorar el mundo que lo rodea y aprender nuevas cosas.",
+    "ubicacion": "Carrera 51 #50, Medellin"
+  },
+  {
+    "id": "2",
+    "name": "Papi",
+    "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1702591471/mediateca/xsc5osdz5ad9rv3muzcz.png",
+    "edad": "2 meses",
+    "personalidad": "carismatico",
+    "personalidad2": "Ruidoso",
+    "personalidad3": "Amigable",
+    "raza": "Chihuahua",
+    "Description": "Conoce a Papi, un Chihuahua adorable con una personalidad tan grande como su corazón. Este pequeño canino es una explosión de alegría y afecto en un paquete diminuto. A pesar de su tamaño, sus ojos vivaces y su pelaje suave te robarán el corazón al instante.",
+    "ubicacion": "1720 new allen. Allentown,New Mexico 31134"
+  },
+  {
+    "id": "3",
+    "name": "Rocky",
+    "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1702591471/mediateca/mdtqyfltybqpoqsmbdvn.png",
+    "edad": "3 meses",
+    "personalidad": "Cariñoso",
+    "personalidad2": "Inquieto",
+    "personalidad3": "Jugueton",
+    "raza": "Rottwailer",
+    "Description": "Rocky es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada.",
+    "ubicacion": "4140 Parker Rd. Allentown,New Mexico 31134"
+  },
+  {
+    "id": "4",
+    "name": "Pelusa",
+    "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1702591472/mediateca/h6il7kqhnns1lgy2agoh.png",
+    "edad": "4 meses",
+    "personalidad": "Peludo",
+    "personalidad2": "Adorable",
+    "personalidad3": "Gracioso",
+    "raza": "bichon frise",
+    "Description": "Conoce a Pelusa, un cachorro Bichón Frisé lleno de encanto y ternura. A pesar de su corta edad, este pequeño peludo ya muestra toda la promesa de ser un compañero excepcional. Con su pelaje blanco y esponjoso, y esos ojos brillantes llenos de curiosidad, Pelusa irradia una dulzura que te robará el corazón al instante.",
+    "ubicacion": "2030 central new. Allentown,New Mexico 31134"
+  },
+  {
+    "id": "5",
+    "name": "Matilde",
+    "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1702591471/mediateca/uqy5ljitqfegtccwxe8l.png",
+    "edad": "5 meses",
+    "personalidad": "Cariñosa",
+    "personalidad2": "Atenta",
+    "personalidad3": "Tranquila",
+    "raza": "British Short Hair",
+    "Description": "Conoce a Matilde, una gata tranquila y observadora que cautiva con su elegancia. Su pelaje atigrado y su mirada serena revelan su naturaleza tranquila y amorosa. Matilde prefiere los momentos tranquilos, disfrutando de largas siestas en los lugares más acogedores de la casa.",
+    "ubicacion": "Carrera 51 #50, Medellin"
+  },
+  {
+    "id": "6",
+    "name": "Pelusa",
+    "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1702591471/mediateca/e3llwtesliprj3olwxha.png",
+    "edad": "2 meses",
+    "personalidad": "carismatica",
+    "personalidad2": "Loca",
+    "personalidad3": "Amigable",
+    "raza": "Birmano",
+    "Description": "Pelusa es el alma juguetona y curiosa del grupo. Con su pelaje blanco como la nieve y esos ojos brillantes llenos de curiosidad, este gato es un explorador incansable, siempre listo para descubrir aventuras emocionantes. Su vitalidad y su naturaleza juguetona lo convierten en un compañero divertido y encantador para toda la familia. ",
+    "ubicacion": "1720 new allen. Allentown,New Mexico 31134"
+  },
+  {
+    "id": "7",
+    "name": "Kity",
+    "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1702591471/mediateca/vu5l6kdmtbgqm6tlon1l.png",
+    "edad": "3 meses",
+    "personalidad": "Cariñoso",
+    "personalidad2": "Inquieto",
+    "personalidad3": "Jugueton",
+    "raza": "Bombay",
+    "Description": "Conoce a Kity, un gato cariñoso y sociable que disfruta la compañía de todos. Su pelaje suave y su personalidad amistosa lo hacen irresistible. Kity adora recibir mimos y estar cerca de sus humanos",
+    "ubicacion": "4140 Parker Rd. Allentown,New Mexico 31134"
+  },
+  {
+    "id": "8",
+    "name": "Bombon",
+    "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1702591471/mediateca/ih1mv5qiuymh7lxjnemf.png",
+    "edad": "4 meses",
+    "personalidad": "Peludo",
+    "personalidad2": "Adorable",
+    "personalidad3": "Gracioso",
+    "raza": "Gato Americano",
+    "Description": "Bombon es la gata dulce y curiosa del grupo. Su pelaje color crema y sus ojos expresivos hablan de su curiosidad incesante. Ama explorar su entorno con una curiosidad sin fin y siempre está dispuesta a jugar. Bombon tiene ese toque tierno que la hace una compañera adorable para relajarse en el hogar. ",
+    "ubicacion": "2030 central new. Allentown,New Mexico 31134"
+  }
+]
+}
